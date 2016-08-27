@@ -102,7 +102,7 @@
 		{ 	// word 11
 			size : 390,
 			weight : 10,
-			color: '#E65454',
+			color: '#3F51B5',
 			duration: 0.8,
 			fade: 2,
 			delay: 0.1,
