@@ -17,13 +17,13 @@
 	// plugin options for each word
 	var options = [
 		{ 	// word 1
-			size : 190,
-			weight : 1,
-			color: '#f8f8f8',
-			duration: 0.5,
-			fade: 0,
-			delay: 0,
-			easing: d3_ease.easeSinInOut.ease
+			size : 390,
+			weight : 10,
+			color: '#E65454',
+			duration: 0.8,
+			fade: 2,
+			delay: 0.1,
+			easing: d3_ease.easeExpInOut.ease
 		},
 		{ 	// word 2
 			size : 210,
