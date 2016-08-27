@@ -117,15 +117,6 @@
 			delay: 0.1,
 			easing: d3_ease.easeExpInOut.ease
 		},
-		{ 	// word 12
-			size : 500,
-			weight : 25,
-			color: '#3F51B5',
-			duration: 1,
-			fade: 1.5,
-			delay: 0.2,
-			easing: d3_ease.easeExpInOut.ease
-		}
 	],
 	// items (li)
 	items = [].slice.call(document.querySelectorAll('ul.list > li.list__item'));
