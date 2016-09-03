@@ -1,3 +1,5 @@
 All the work that talon does goes here
 
-HTML link citing will be donw by Sid and Shreyas
+HTML link citing will be done by Sid and Shreyas
+
+Feel free to create new folders
